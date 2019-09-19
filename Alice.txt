@@ -6,3 +6,6 @@ Here is a change to Alice
 Anothe change to Alice to mess it up
 
 Yet another change
+I want a conflit in alice
+This time i will get a conflit
+
