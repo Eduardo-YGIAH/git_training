@@ -973,4 +973,6 @@ We could just do another `rebase -i` in the current state, just like we did orig
 
 Or we use the reflog and jump back to after the rebase and `amend` the commit from there. 
 
-But by now you know how to do either of that, so I'll let you try that on your own. And in addition you also know that there's the `reflog` allowing you to undo most things you might end up doing by mistake. 
+But by now you know how to do either of that, so I'll let you try that on your own. And in addition you also know that there's the `reflog` allowing you to undo most things you might end up doing by mistake.
+
+Under quarantine until 15 July 2026, then will be deleted. Remove this line before specified date to prevent deletion.
